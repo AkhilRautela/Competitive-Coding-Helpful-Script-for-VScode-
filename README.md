@@ -3,3 +3,4 @@ These Scripts creates the folder + no of files required by the user in that fold
 clone the repo in any of your folder..
 just write python cp.py help 
 for the command format
+After Adding files just use Ctrl+shift+B to run your files
