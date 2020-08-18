@@ -1,0 +1,17 @@
+{
+    //By Akhil Rautela
+    //https://www.gihub.com/AkhilRautela
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "BUILD AND RUN",
+            "type": "shell",
+            "command": "python run.py ${file} ",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
