@@ -29,7 +29,7 @@ elif dname[-2:].lower()=="py":
         else:
             com=com+x+"/"
     print(">>>> RUNNING ")
-    os.system(com+fname[:-2]+"py")
+    os.system("python "+com+fname[:-2]+"py")
 
 else:
     print(">>>> NOT ADDED THESE TYPES OF FILES")
