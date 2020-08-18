@@ -10,7 +10,7 @@ if dname[-3:].lower()=="cpp":
     com=dname[:-3]+"exe"
     sdir=dname.split("\\")
     com=""
-    print(sdir[:-1])
+    #print(sdir[:-1])
     for x in sdir[:-1]:
         if " " in x:
             com=com+'"'+x+'"'+"/"
