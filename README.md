@@ -4,4 +4,4 @@
 ==>  Just write python cp.py help  <br> for the command format <br>
 ===> After Adding files just use Ctrl+shift+B to run your files <br>
 ===> https://www.geeksforgeeks.org/competitive-coding-setup-for-c-and-python-in-vs-code-using-python-script/ <br>
-   refer this article for reference
+   refer this article for better understanding
